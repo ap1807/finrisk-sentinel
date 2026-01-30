@@ -1,0 +1,5 @@
+{
+  "name": "FinRisk Sentinel",
+  "description": "A production-grade Personal Finance Risk & Spending Intelligence System featuring a rule-based deterministic risk engine, simulated Spring Boot architecture, and high-fidelity dashboard visualizations.",
+  "requestFramePermissions": []
+}
